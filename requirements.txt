@@ -1,0 +1,7 @@
+streamlit>=1.25
+tensorflow>=2.9.0
+torch>=1.12.0
+torchvision>=0.13.0
+numpy>=1.22
+Pillow>=9.0
+
